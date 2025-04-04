@@ -4,7 +4,6 @@ import xlwt
 from datetime import datetime, timedelta
 from typing import List
 from bs4 import BeautifulSoup
-l=[]
 
 group_lessons_list = []
 
